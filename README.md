@@ -41,6 +41,7 @@ Possible algorithims:
 
 ### Input Format
 Input formats were specified to be three lines containing:
+
 `start-state`
 
 `goal-state`
@@ -53,6 +54,7 @@ For the purpose of this university assessment, we were instructed to assume all 
 
 ### Expected Output
 Two lines of expected output:
+
 `solution path`
 
 `list of expanded states`
