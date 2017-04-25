@@ -13,7 +13,7 @@ For the purpose of this assignment numbers starting with 0, e.g. 018, are consid
 
 Heuristics utilised in informed algorithms were to be generated using the Manhattan heuristic.
 
-The Manhattan heuristic for a move between two numbers A and B is the sum of the absolute differencesofthecorrespondingdigitsofthesenumbers,e.g. h(123,492)   |1- 4| |2 - 9| |3 - 2| = 11.
+The Manhattan heuristic for a move between two numbers A and B is the sum of the absolute differencesofthecorrespondingdigitsofthesenumbers,e.g. h(123,492) = |1 - 4| + |2 - 9| + |3 - 2| = 11.
 
 ## Usage
 `$ python ThreeDigits.py <algorithm> <input text file>`
@@ -28,9 +28,9 @@ Possible algorithims:
 
 ### Input Format
 Input formats were specified to be three lines containing:
-`start-state
-goal-state
-forbidden1,forbidden2,forbidden3,...,forbiddenN (optional)`
+`start-state`
+`goal-state`
+`forbidden1,forbidden2,forbidden3,...,forbiddenN (optional)`
 
 Examples are provided in the sample_input directory of the repository.
 
