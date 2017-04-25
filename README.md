@@ -42,7 +42,9 @@ Possible algorithims:
 ### Input Format
 Input formats were specified to be three lines containing:
 `start-state`
+
 `goal-state`
+
 `forbidden1,forbidden2,forbidden3,...,forbiddenN (optional)`
 
 Examples are provided in the sample_input directory of the repository.
@@ -52,4 +54,5 @@ For the purpose of this university assessment, we were instructed to assume all 
 ### Expected Output
 Two lines of expected output:
 `solution path`
+
 `list of expanded states`
