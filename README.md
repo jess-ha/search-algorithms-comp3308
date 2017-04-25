@@ -48,3 +48,8 @@ Input formats were specified to be three lines containing:
 Examples are provided in the sample_input directory of the repository.
 
 For the purpose of this university assessment, we were instructed to assume all input provided was correctly formatted and all values given were appropriate for the puzzle.
+
+### Expected Output
+Two lines of expected output:
+`solution path`
+`list of expanded states`
